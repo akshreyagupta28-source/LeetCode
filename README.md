@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0001-two-sum) |
+| [0877-stone-game](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0877-stone-game) |
 | [0946-validate-stack-sequences](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0946-validate-stack-sequences) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0009-palindrome-number) |
+| [0877-stone-game](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0877-stone-game) |
 ## String
 |  |
 | ------- |
@@ -38,4 +40,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0946-validate-stack-sequences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
