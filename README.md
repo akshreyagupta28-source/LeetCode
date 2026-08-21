@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0055-jump-game](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0877-stone-game](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0877-stone-game) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0877-stone-game) |
 ## Minimax
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0292-nim-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
