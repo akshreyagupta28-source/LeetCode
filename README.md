@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0009-palindrome-number) |
 | [0292-nim-game](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0877-stone-game) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/akshreyagupta28-source/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
 | ------- |
