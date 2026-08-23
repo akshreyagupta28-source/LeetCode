@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0877-stone-game](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0877-stone-game) |
 | [0946-validate-stack-sequences](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0946-validate-stack-sequences) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshreyagupta28-source/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0055-jump-game) |
 | [1927-sum-game](https://github.com/akshreyagupta28-source/LeetCode/tree/master/1927-sum-game) |
+## Sorting
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshreyagupta28-source/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshreyagupta28-source/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
