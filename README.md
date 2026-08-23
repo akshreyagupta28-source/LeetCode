@@ -30,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0009-palindrome-number) |
 | [0292-nim-game](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/akshreyagupta28-source/LeetCode/tree/master/1927-sum-game) |
 | [2769-find-the-maximum-achievable-number](https://github.com/akshreyagupta28-source/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/akshreyagupta28-source/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0020-valid-parentheses) |
+| [1927-sum-game](https://github.com/akshreyagupta28-source/LeetCode/tree/master/1927-sum-game) |
 ## Stack
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/akshreyagupta28-source/LeetCode/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -95,4 +98,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0055-jump-game) |
+| [1927-sum-game](https://github.com/akshreyagupta28-source/LeetCode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
