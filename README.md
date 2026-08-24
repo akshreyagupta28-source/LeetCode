@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0496-next-greater-element-i](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0877-stone-game](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0877-stone-game) |
 | [0946-validate-stack-sequences](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshreyagupta28-source/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Database
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0946-validate-stack-sequences](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0946-validate-stack-sequences) |
 ## Bracket Sequences
 |  |
@@ -116,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
