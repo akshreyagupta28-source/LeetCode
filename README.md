@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0155-min-stack) |
 | [0946-validate-stack-sequences](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0946-validate-stack-sequences) |
 ## Bracket Sequences
 |  |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshreyagupta28-source/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
