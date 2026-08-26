@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0242-valid-anagram) |
+| [0796-rotate-string](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0796-rotate-string) |
 | [1927-sum-game](https://github.com/akshreyagupta28-source/LeetCode/tree/master/1927-sum-game) |
 ## Stack
 |  |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0496-next-greater-element-i) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
