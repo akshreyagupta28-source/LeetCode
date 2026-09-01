@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0877-stone-game](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0877-stone-game) |
 | [0946-validate-stack-sequences](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0946-validate-stack-sequences) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0771-jewels-and-stones) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0242-valid-anagram) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshreyagupta28-source/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
@@ -153,4 +156,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/akshreyagupta28-source/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
