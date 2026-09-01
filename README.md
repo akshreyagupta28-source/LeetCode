@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshreyagupta28-source/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/akshreyagupta28-source/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/akshreyagupta28-source/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/akshreyagupta28-source/LeetCode/tree/master/1927-sum-game) |
 | [2769-find-the-maximum-achievable-number](https://github.com/akshreyagupta28-source/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/akshreyagupta28-source/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/akshreyagupta28-source/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/akshreyagupta28-source/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/akshreyagupta28-source/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/akshreyagupta28-source/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
