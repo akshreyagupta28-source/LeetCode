@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0877-stone-game) |
 | [0946-validate-stack-sequences](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshreyagupta28-source/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/akshreyagupta28-source/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0055-jump-game) |
+| [1833-maximum-ice-cream-bars](https://github.com/akshreyagupta28-source/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1927-sum-game](https://github.com/akshreyagupta28-source/LeetCode/tree/master/1927-sum-game) |
 ## Sorting
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0242-valid-anagram) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshreyagupta28-source/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/akshreyagupta28-source/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -168,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/akshreyagupta28-source/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
