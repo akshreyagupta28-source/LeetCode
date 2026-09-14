@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0169-majority-element) |
+| [0239-sliding-window-maximum](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0877-stone-game](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0877-stone-game) |
 | [0946-validate-stack-sequences](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0946-validate-stack-sequences) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshreyagupta28-source/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Design
 |  |
@@ -183,4 +185,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/akshreyagupta28-source/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/akshreyagupta28-source/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
